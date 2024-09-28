@@ -1,0 +1,29 @@
+label{
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttoncontainer{
+    text-align: center;
+}
+
+.button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
